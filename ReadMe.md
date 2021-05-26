@@ -28,6 +28,10 @@ Sometimes run checks
 
 ![image](docs/images/checkstyle_run_check.png)
 
+```bash
+mvn clean validate
+```
+
 ## Configuration Code Style for IntelliJ IDEA
 
 Copy content of the file https://raw.githubusercontent.com/DmitryKhodakovsky/epam-training-center-code-checkers-configurations/main/formatter/code_style.xml to your project and set up path to it in the settings 
